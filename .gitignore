@@ -9,7 +9,6 @@ lerna-debug.log*
 
 node
 node_modules
-dist
 dist-ssr
 *.local
 *.tsbuildinfo
